@@ -20,19 +20,7 @@ please refer to our paper, [BHAAV- A Text Corpus for Emotion Analysis from Hindi
 The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 
 ## Dataset Stats
-/***
-\begin{table}[]
-\centering
-\caption{My caption}
-\label{my-label}
-\begin{tabular}{|l|l|l|}
-\hline
-\textbf{Animals} & \textbf{Sports}  & \textbf{Fruits} \\ \hline
-Cat     & Soccer     & Apple  \\ \hline
-Dog     & Basketball & Orange \\ \hline
-\end{tabular}
-\end{table}
-***/
+
 ## References
 
 Please cite [[1]](https://arxiv.org/abs/1910.04073) if you found the resources in this repository useful.
