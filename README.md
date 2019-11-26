@@ -90,7 +90,7 @@ Please feel free to send us an email:
 - if interested in having us analyze your data for emotion, and other affectual information.
 - if interested in a collaborative research project.
 
-Copyright (c) 2019 Multimodal Digital Media Analysis Lab - Indraprastha Institute of Information Technology, New Delhi (MIDAS, IIIT-Delhi)
+Copyright (C) 2019 Multimodal Digital Media Analysis Lab - Indraprastha Institute of Information Technology, New Delhi (MIDAS, IIIT-Delhi)
 
 ## References
 
