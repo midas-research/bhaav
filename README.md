@@ -16,3 +16,6 @@ This repository contains link to download the data, and information about the co
 
 For more details on how the dataset was created, and baseline models,
 please refer to our paper, [BHAAV- A Text Corpus for Emotion Analysis from Hindi Stories](https://arxiv.org/abs/1910.04073)
+
+The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
+
