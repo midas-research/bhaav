@@ -5,21 +5,12 @@ BHAAV is the first and largest Hindi text corpus for analyzing emotions that a w
 
 <br>
 <p align="center">
-  <img src="http://midas.iiitd.edu.in/" alt="Facebook AI Research and UCL NLP"  width="60%"/>
+  <img src="https://github.com/midas-research/bhaav/blob/master/MIDAS-logo.jpg" alt="MIDAS lab at IIIT-Delhi"  width="60%"/>
   <br>
 </p>
 <br>
 
-This repository contains both links to download the data, and the official evaluation script to evaluate models.
+This repository contains link to download the data, and information about the corpus.
 
-
-<br>
-<p align="center">
-  <img src="https://dl.fbaipublicfiles.com/MLQA/examples.jpg" alt="Two Instances from MLQA"  width="80%"/>
-  <br>
-  Two Instances from MLQA
-</p>
-<br>
-
-For more details on how the dataset was created, and baseline models testing cross-lingual transfer from English,
-please refer to our paper, [MLQA: Evaluating Cross-lingual Extractive Question Answering](http://arxiv.org/abs/1910.07475)
+For more details on how the dataset was created, and baseline models,
+please refer to our paper, [BHAAV- A Text Corpus for Emotion Analysis from Hindi Stories](https://arxiv.org/abs/1910.04073)
