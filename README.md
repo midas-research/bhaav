@@ -8,7 +8,7 @@ A dataset of sentences from Hindi stories tagged with different emotion tags dev
 </p>
 <br>
 
-**BHAAV** is the first and largest Hindi text corpus for analyzing emotions that a writer expresses through his characters in a story, as perceived by a narrator/reader. The corpus consists of 20,304 sentences collected from 230 different short stories spanning across 18 genres such as प्रेरणादायक (Inspirational) and रहस्यमयी (Mystery). Each sentence has been annotated into one of the five emotion categories **anger**, **joy**, **suspense**, **sad**, and **neutral**.
+**BHAAV** is the first and largest Hindi text corpus for analyzing emotions that a writer expresses through his/her characters in a story, as perceived by a narrator/reader. The corpus consists of 20,304 sentences collected from 230 different short stories spanning across 18 genres such as प्रेरणादायक (Inspirational) and रहस्यमयी (Mystery). Each sentence has been annotated into one of the five emotion categories **anger**, **joy**, **suspense**, **sad**, and **neutral**.
 
 
 
