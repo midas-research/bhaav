@@ -19,7 +19,16 @@ please refer to our paper, [BHAAV- A Text Corpus for Emotion Analysis from Hindi
 
 The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 
-## Dataset Stats
+## Dataset Overview
+
+#### Distribution of sentences in different categories of emotions in the BHAAV dataset.
+
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/bhaav/blob/master/sentence-distribution.png" alt="Sentence Distribution"  width="60%"/>
+  <br>
+</p>
+<br>
 
 #### Inter-annotator agreements for each genre and for the entire dataset as measured using Fleiss‘s Kappa.
 
@@ -34,16 +43,7 @@ The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/bhaav/blob/master/sample-sentences.png" alt="Sample Sentences"  width="80%"/>
-  <br>
-</p>
-<br>
-
-#### Distribution of sentences in different categories of emotions in the BHAAV dataset.
-
-<br>
-<p align="center">
-  <img src="https://github.com/midas-research/bhaav/blob/master/sentence-distribution.png" alt="Sentence Distribution"  width="60%"/>
+  <img src="https://github.com/midas-research/bhaav/blob/master/sample-sentences.png" alt="Sample Sentences"  width="90%"/>
   <br>
 </p>
 <br>
@@ -70,7 +70,7 @@ The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/bhaav/blob/master/emotion-flows.png" alt="Emotion Flows"  width="80%"/>
+  <img src="https://github.com/midas-research/bhaav/blob/master/emotion-flows.png" alt="Emotion Flows"  width="90%"/>
   <br>
 </p>
 <br>
