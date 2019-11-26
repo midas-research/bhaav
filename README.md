@@ -21,6 +21,15 @@ The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 
 ## Dataset Stats
 
+Inter-annotator agreements as measured using Fleiss‘s Kappa.
+
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/bhaav/blob/master/inter-annotator-agreements.png" alt="MIDAS lab at IIIT-Delhi"  width="40%"/>
+  <br>
+</p>
+<br>
+
 ## References
 
 Please cite [[1]](https://arxiv.org/abs/1910.04073) if you found the resources in this repository useful.
