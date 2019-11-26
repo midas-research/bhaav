@@ -19,3 +19,19 @@ please refer to our paper, [BHAAV- A Text Corpus for Emotion Analysis from Hindi
 
 The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 
+## References
+
+Please cite [[1]](https://arxiv.org/abs/1910.04073) if you found the resources in this repository useful.
+
+
+[1] Kumar, Y., Mahata, D., Aggarwal, S., Chugh, A., Maheshwari, R., and Shah, R. R. [*BHAAV- A Text Corpus for Emotion Analysis from Hindi Stories*](https://arxiv.org/abs/1910.04073)
+
+
+```
+@article{kumar2019bhaav,
+  title={BHAAV-A Text Corpus for Emotion Analysis from Hindi Stories},
+  author={Kumar, Yaman and Mahata, Debanjan and Aggarwal, Sagar and Chugh, Anmol and Maheshwari, Rajat and Shah, Rajiv Ratn},
+  journal={arXiv preprint arXiv:1910.04073},
+  year={2019}
+}
+```
