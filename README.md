@@ -75,6 +75,23 @@ The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 </p>
 <br>
 
+## Terms of Use
+
+1. This dataset can be used freely for research purposes.
+2. The paper listed below provide details of the creation and use of the dataset. If you use the dataset, then please cite the     paper.
+3. If interested in commercial use of the lexicon, send email to midas@iiitd.ac.in.
+4. If you use the dataset in a product or application, then please credit the authors and [Multimodal Digital Media Analysis Lab - Indraprastha Institute of Information Technology, New Delhi](http://midas.iiitd.edu.in) appropriately. Also, if you send us an email, we will be thrilled to know about how you have used the dataset.
+5. Multimodal Digital Media Analysis Lab - Indraprastha Institute of Information Technology, New Delhi, India disclaims any responsibility for the use of the dataset and does not provide technical support. However, the contact listed above will be happy to respond to queries and clarifications.
+6. Rather than redistributing the dataset, please direct interested parties to this [page](https://github.com/midas-research/bhaav)
+
+Please feel free to send us an email:
+- with feedback regarding the corpus.
+- with information on how you have used the corpus.
+- if interested in having us analyze your data for emotion, and other affectual information.
+- if interested in a collaborative research project.
+
+Copyright (C) 2019 Multimodal Digital Media Analysis Lab - Indraprastha Institute of Information Technology, New Delhi (MIDAS, IIIT-Delhi)
+
 ## References
 
 Please cite [[1]](https://arxiv.org/abs/1910.04073) if you found the resources in this repository useful.
@@ -91,3 +108,4 @@ Please cite [[1]](https://arxiv.org/abs/1910.04073) if you found the resources i
   year={2019}
 }
 ```
+
