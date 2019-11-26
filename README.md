@@ -21,11 +21,56 @@ The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 
 ## Dataset Stats
 
-#### Inter-annotator agreements as measured using Fleiss‘s Kappa.
+#### Inter-annotator agreements for each genre and for the entire dataset as measured using Fleiss‘s Kappa.
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/bhaav/blob/master/inter-annotator-agreements.png" alt="MIDAS lab at IIIT-Delhi"  width="60%"/>
+  <img src="https://github.com/midas-research/bhaav/blob/master/inter-annotator-agreements.png" alt="Interannotator Agreement"  width="60%"/>
+  <br>
+</p>
+<br>
+
+#### Sample sentences from BHAAV dataset for each emotion label.
+
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/bhaav/blob/master/sample-sentences.png" alt="Sample Sentences"  width="60%"/>
+  <br>
+</p>
+<br>
+
+#### Distribution of sentences in different categories of emotions in the BHAAV dataset.
+
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/bhaav/blob/master/sentence-distribution.png" alt="Sentence Distribution"  width="60%"/>
+  <br>
+</p>
+<br>
+
+#### Performance of the baseline supervised classification models on BHAAV dataset.
+
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/bhaav/blob/master/baseline-performance.png" alt="MIDAS lab at IIIT-Delhi"  width="60%"/>
+  <br>
+</p>
+<br>
+
+#### Top 10 most important features for each emotion category as identified by the Logistic Regression model during training.
+
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/bhaav/blob/master/important-features.png" alt="MIDAS lab at IIIT-Delhi"  width="60%"/>
+  <br>
+</p>
+<br>
+
+#### Flow of emotions in randomly selected stories from two different genres.
+
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/bhaav/blob/master/emotion-flows.png" alt="MIDAS lab at IIIT-Delhi"  width="60%"/>
   <br>
 </p>
 <br>
