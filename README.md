@@ -34,7 +34,7 @@ The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/bhaav/blob/master/sample-sentences.png" alt="Sample Sentences"  width="60%"/>
+  <img src="https://github.com/midas-research/bhaav/blob/master/sample-sentences.png" alt="Sample Sentences"  width="80%"/>
   <br>
 </p>
 <br>
@@ -52,7 +52,7 @@ The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/bhaav/blob/master/baseline-performance.png" alt="MIDAS lab at IIIT-Delhi"  width="60%"/>
+  <img src="https://github.com/midas-research/bhaav/blob/master/baseline-performance.png" alt="Baseline Performance"  width="60%"/>
   <br>
 </p>
 <br>
@@ -61,7 +61,7 @@ The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/bhaav/blob/master/important-features.png" alt="MIDAS lab at IIIT-Delhi"  width="60%"/>
+  <img src="https://github.com/midas-research/bhaav/blob/master/important-features.png" alt="Important Features"  width="60%"/>
   <br>
 </p>
 <br>
@@ -70,7 +70,7 @@ The dataset can be obtained from https://zenodo.org/record/3457467#.Xd07oy2ZO-t
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/bhaav/blob/master/emotion-flows.png" alt="MIDAS lab at IIIT-Delhi"  width="60%"/>
+  <img src="https://github.com/midas-research/bhaav/blob/master/emotion-flows.png" alt="Emotion Flows"  width="80%"/>
   <br>
 </p>
 <br>
